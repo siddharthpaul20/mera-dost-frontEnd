@@ -1,0 +1,4 @@
+.aboutUs > img {
+  object-fit: contain;
+  width: 80vw ;
+}
